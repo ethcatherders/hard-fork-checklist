@@ -1,0 +1,34 @@
+# Etherum Hardfork Checklist
+
+This guide is designed to be a checklist for information regarding hardforks of the Ethereum protocol.
+
+### Name
+* Constantinople
+
+### When
+* Block Number
+	*  ~~**7,080,000**~~ [**TBD**](https://blog.ethereum.org/2019/01/15/security-alert-ethereum-constantinople-postponement/)
+	*  Due to a vulnerability discovered by ChainSecurity and documented in this [article](https://medium.com/chainsecurity/constantinople-enables-new-reentrancy-attack-ace4088297d9). The hardfork was delayed and a new date for the hardfork will be discussed on the [all core devs call #53](https://github.com/ethereum/pm) Friday, January 18, 2019 14:00 UTC.
+
+* Estimated Date
+	* ~~January 16th, 2019~~
+
+### What
+* EIP-1234
+* EIP-145
+* EIP-1014
+* EIP-1052
+* EIP-1283
+
+### Who
+
+Hardfork Clients Version
+
+[paritytech/parity-ethereum]
+(https://github.com/paritytech/parity-ethereum)
+
+[ethereum/ethereumj](https://github.com/ethereum/ethereumj)
+
+[ethereum/aleth](https://github.com/ethereum/aleth)
+
+

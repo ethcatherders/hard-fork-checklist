@@ -22,13 +22,7 @@ This guide is designed to be a checklist for information regarding hardforks of 
 
 ### Who
 
-Hardfork Clients Version
+Hardfork Compatible Clients Version
 
-[paritytech/parity-ethereum]
-(https://github.com/paritytech/parity-ethereum)
-
-[ethereum/ethereumj](https://github.com/ethereum/ethereumj)
-
-[ethereum/aleth](https://github.com/ethereum/aleth)
 
 

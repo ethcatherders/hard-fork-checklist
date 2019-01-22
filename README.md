@@ -30,8 +30,8 @@ Hardfork Compatible Clients Version
 
 This section contains all the things which need to be true in order to complete a successful hard ford.
 
-* More than XX% of hashing power has been upgraded to the following client
-	* geth
-	* Parity
-	*
+* More than XX% of hashing power has been upgraded to the following client versions
+	* geth 1.8.XX
+	* Parity 2.2.X
+	* 
 

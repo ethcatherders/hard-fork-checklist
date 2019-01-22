@@ -26,5 +26,12 @@ This guide is designed to be a checklist for information regarding hardforks of 
 
 Hardfork Compatible Clients Version
 
+### Checklist
 
+This section contains all the things which need to be true in order to complete a successful hard ford.
+
+* More than XX% of hashing power has been upgraded to the following client
+	* Geth
+	* Parity
+	* 
 
